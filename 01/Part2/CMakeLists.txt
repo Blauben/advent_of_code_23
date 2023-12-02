@@ -4,4 +4,5 @@ project(01)
 
 add_compile_options(-g)
 add_executable(run main.cpp
-        main.h)
+        main.h
+        ../../02/Part1/main.h)
